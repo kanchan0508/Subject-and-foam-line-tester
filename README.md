@@ -72,8 +72,6 @@ export default tseslint.config([
 
 A modern, responsive web application built with React and TypeScript to help marketers and email professionals craft compelling subject lines and preview text that boost open rates while avoiding spam filters.
 
-![Subject & Foam Line Tester Screenshot](./screenshot.png)
-
 ## 🚀 Live Demo
 
 **[View Live Demo](https://subject-and-foam-line-tester-a98r.vercel.app/)**
@@ -227,15 +225,11 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Kanchan Gobari**
 - GitHub: [@kanchan0508](https://github.com/kanchan0508)
-- LinkedIn: [Connect with me](https://linkedin.com/in/kanchan-gobari)
+- LinkedIn: [Connect with me](https://linkedin.com/in/kanchangobari)
 
 ## 🙏 Acknowledgments
 
